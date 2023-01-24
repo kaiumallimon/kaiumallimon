@@ -1,7 +1,7 @@
 ## Hi there 👋, My name is Kaium Al Limon
 ###  Undergraduate CSE Student | Programmer
 <!-- ![ ]("C:\Users\rvivy\Desktop\Banner.png") -->
-![Undergraduate CSE Student | Programmer](./Banner.png)
+![Undergraduate CSE Student | Programmer](./Banner.PNG)
 
 I am a hardworking and ambitious individual with a great passion in programming. I am currently in my second year of studying CSE at United International University. In future, I'm willing to be an Android developer.
 
