@@ -22,7 +22,7 @@ Skills: C / JAVA/ MYSQL / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithLimon&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewithLimon)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewithLimon)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/codewithLimon)  
 
