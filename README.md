@@ -12,6 +12,12 @@ Skills: C / JAVA/ MYSQL / HTML / CSS
 - 💬 Ask me about JAVA 
 
 
+Frameworks that I've used in JAVA:
+- JavaFX
+- Spring
+- Vaadin
+
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codewithLimon)](https://github.com/ryo-ma/github-profile-trophy)
