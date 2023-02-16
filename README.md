@@ -5,7 +5,7 @@
 
 I am a hardworking and ambitious individual with a great passion in programming. I am currently in my second year of studying CSE at United International University. In future, I'm willing to be an Android developer.
 
-Skills: C / JAVA/ MYSQL / HTML / CSS
+</b> Skills: C / JAVA/ MYSQL / HTML / CSS </b>
 
 - 🔭 I’m currently working on a project by using JAVA 
 - 👯 I’m looking to collaborate on Github 
