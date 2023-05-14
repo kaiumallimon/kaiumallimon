@@ -1,9 +1,9 @@
-
+<!-- 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaium Al Limon
 ======================================================================================================================================
 
-####  Undergraduate CSE Student | Programmer
---------------------------------------
+####  Undergraduate CSE Student | Programmer -->
+<!-- -------------------------------------- -->
 <!-- ![Undergraduate CSE Student | Programmer](https://github.com/codewithLimon/codewithLimon/blob/main/Banner.png?raw=true) -->
 
 Hi there, my name is Kaium Al Limon and I am an undergraduate student studying Computer Science and Engineering. Programming is my passion, and I am constantly striving to learn new skills and techniques to become a better developer. My ultimate goal is to become an Android Developer & I'm working on my skills, and I am excited to work towards achieving that goal. I love exploring new programming languages, frameworks, and tools, and I am always on the lookout for ways to optimize my code and improve the user experience. As a team player, I enjoy collaborating with others to achieve common goals. I believe that communication is key to success, and I make sure to explain technical concepts in simple terms that everyone can understand. My friendly and outgoing personality allows me to work well with others and make valuable contributions to any project. In the future, I am excited to continue growing my skills and knowledge as a programmer. I am confident that my passion for programming, dedication, and ambition will help me to achieve great success in my career as an Android Developer.
