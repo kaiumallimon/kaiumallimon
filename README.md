@@ -35,12 +35,6 @@ src="https://img.shields.io/github/followers/codewithLimon?logo=github&style=for
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Frameworks that used in JAVA:
-- JavaFX
-- Spring
-- Vaadin
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/codewithLimon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" /></a><br><br><a href="http://www.instagram.com/lemmo.priv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a><br><br><a href="https://www.linkedin.com/in/kaium-al-limon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
