@@ -21,7 +21,7 @@ Apart from programming, I enjoy indulging in my hobbies such as watching movies 
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **C, C++, JAVA, HTML5, CSS, Javascript,**
+- 💬 Ask me about **C, C++, JAVA, HTML5, CSS, Javascript**
 
 - 📫 Contact me in this Email **limon.3cs@gmail.com**
 
