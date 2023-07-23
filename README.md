@@ -6,11 +6,7 @@
 
 
 
-<p>I am Kaium al Limon, a dedicated undergraduate studying Computer Science and Engineering at United International University in Bangladesh. My passion lies in programming and I have attained mastery in the Java programming language. Currently, I am exploring the world of Flutter to enhance my proficiency as a developer.
-
-I am passionate about software development and strive to constantly learn new technologies and improve my skills. Throughout my journey, I have worked on a variety of programming projects including web development, mobile application development, and algorithm design.
-
-Apart from programming, I enjoy indulging in my hobbies such as watching movies & web series and playing online games. If you'd like to connect with me, feel free to connect with me on LinkedIn.</p>
+<p>Hi there, I am Kaium Al Limon, an undergraduate CSE student at United International University, deeply passionate about programming. With a strong grasp of Java core and various frameworks, I also possess proficiency in programming languages like C, C++, HTML, CSS, JavaScript, and PHP. Constantly striving to enhance my problem-solving skills, I actively participate in Codeforces contests and offline challenges. My unwavering love for programming led me to choose Computer Science and Engineering as my academic path. I am eager to contribute my skills and drive to the world of software development, embracing new challenges and seeking innovative solutions. Let's connect and explore the possibilities of shaping a limitless technological future together!</p>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithlimon&label=Profile%20views&color=0e75b6&style=flat" alt="codewithlimon" /> </p>
