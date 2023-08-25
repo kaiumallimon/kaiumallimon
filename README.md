@@ -38,8 +38,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=codewithLimon&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codewithLimon&theme=default&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=codewithLimon&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codewithLimon&theme=default&hide_border=false)<br/> -->
 
 
 <a href="https://github.com/codewithLimon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithLimon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
