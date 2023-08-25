@@ -41,16 +41,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=codewithLimon&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithLimon&theme=default&hide_border=false)<br/>
 
-<a href="http://www.github.com/codewithLimon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=codewithLimon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/codewithLimon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithLimon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-
-
-<h3 align="left">Top Contributed Repo:</h3>
-
-![](https://github-contributor-stats.vercel.app/api?username=codewithLimon&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
 <h3 align="left"> Random Dev Quote</h3>
 
