@@ -1,5 +1,5 @@
 
- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.DexDuke.github.io)  
+ [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.turt5.github.io)  
 
 <h1 align="center">Hi 👋, I'm Kaium Al Limon</h1>
 <h3 align="center">A passionate programmer</h3>
@@ -34,7 +34,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexDuke&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=turt5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
