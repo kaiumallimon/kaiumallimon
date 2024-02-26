@@ -35,8 +35,8 @@
 -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=turt5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![turt5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turt5&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 ### ✍️ Random Dev Quote
