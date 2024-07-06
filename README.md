@@ -8,5 +8,3 @@
 - 👩‍💻 Currently working on: [MediTouch: A total healthcare system in your hand](#)
 - 💬 `ping` me about **flutter**, **php**, **python**, **cross-platform-development**
 
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turt5&theme=vue)
