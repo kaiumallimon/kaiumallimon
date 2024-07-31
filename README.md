@@ -7,5 +7,3 @@
 - 👩‍💻 Recently Developed: [Pharmbrew: An all in one industry management fullstack web app](https://www.bcrypt.site)
 - 👩‍💻 Currently working on: [MediTouch: A total healthcare system in your hand](#)
 - 💬 `ping` me about **flutter**, **php**, **python**, **cross-platform-development**
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=turt5&theme=vue)](https://git.io/streak-stats)
