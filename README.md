@@ -1,6 +1,6 @@
 ### Hello there, I'm Kaium Al Limon 👋
 
-#### A Full-Stack Cross Platform Developer From Bangladesh
+#### A Full-Stack Flutter Developer From Bangladesh
 
 - ⚙️ I use daily: `.dart`, `.php`, `.python`
 - 🌍 I'm mostly active within the **Flutter Community**
