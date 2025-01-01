@@ -8,6 +8,3 @@ Passionate about creating user-friendly and efficient mobile apps. Always learni
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lemon.exee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaiumallimon) 
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaiumallimon&theme=default&hide_border=false)
