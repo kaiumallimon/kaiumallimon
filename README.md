@@ -1,4 +1,4 @@
-![banner](banner_2.png)
+<!--![banner](banner_2.png)-->
 
 ## Hi, I'm Kaium Al Limon 👋  
 
