@@ -4,8 +4,6 @@ Full-stack software engineer building reliable web and mobile products with a fo
 
 [Portfolio](https://kaiumallimon.tech) · [LinkedIn](https://linkedin.com/in/kaiumallimon) · [Email](mailto:kalimon291@gmail.com)
 
----
-
 ## About me
 
 - Building with Next.js, React, TypeScript, FastAPI, Flutter, Firebase, and Supabase
