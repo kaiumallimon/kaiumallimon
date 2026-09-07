@@ -1,19 +1,20 @@
-<!--![banner](banner_2.png)-->
+# Hi, I’m Kaium Al Limon 👋
 
-## Hi, I'm Kaium Al Limon 👋  
+Full-stack software engineer building reliable web and mobile products with a focus on clean user experiences, scalable backend systems, and practical AI-powered workflows.
 
-🎓 **CSE Student** | 💻 **Flutter Developer** | 🚀 **Tech Enthusiast**  
+[Portfolio](https://kaiumallimon.tech) · [LinkedIn](https://linkedin.com/in/kaiumallimon) · [Email](mailto:kalimon291@gmail.com)
 
-Passionate about creating user-friendly and efficient mobile apps. Always learning, improving, and collaborating to build solutions that make life easier.  
+---
 
-<!--🌱 *"Teamwork and problem-solving drive growth."*  -->
+## About me
 
-  
+- Building with Next.js, React, TypeScript, FastAPI, Flutter, Firebase, and Supabase
+- Interested in full-stack product development, AI-enabled applications, and cross-platform mobile development
+- Based in Dhaka, Bangladesh
 
-### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lemon.exee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaiumallimon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaiumallimon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kaiumallimon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalimon291@gmail.com) 
+## Technology focus
 
-### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=kaiumallimon&theme=transparent&hide_border=true)<br/>
-
-🌱 *"Teamwork and problem-solving drive growth."*
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS, Flutter  
+**Backend:** FastAPI, Node.js, Express.js, REST APIs  
+**Data & Cloud:** PostgreSQL, MySQL, Supabase, Firebase, AWS  
+**Tools:** Git, Docker, Vercel, Linux, CI/CD
